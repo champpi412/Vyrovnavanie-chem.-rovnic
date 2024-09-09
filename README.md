@@ -5,7 +5,7 @@ Program na určovanie stechiometrických koeficientov v chemickej rovnici.
 ### Spustenie
 
 Pred spustením je potrebné nainštalovať Python a všetky balíčky potrebné na spustenie programu. Tie sa nainštalujú spustením 
-```pip install -r requirements.txt``` v adresári projektu. Program sa spúšťa príkazom ```py ui.py``` v adresári projektu.
+```py -m pip install -r requirements.txt``` v adresári projektu. Program sa spúšťa príkazom ```py ui.py``` v adresári projektu zo zložky balancer.
 
 ### Používanie
 
