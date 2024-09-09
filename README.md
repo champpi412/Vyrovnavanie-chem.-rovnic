@@ -1,5 +1,5 @@
 # Vyrovnávač chemických rovníc
-
+Program na určovanie stechiometrických koeficientov v chemickej rovnici.
 ## Uživateľský manuál
 
 ### Spustenie
